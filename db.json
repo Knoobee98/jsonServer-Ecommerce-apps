@@ -17,48 +17,6 @@
       "email": "john.doe@gmail.com",
       "password": "admin231",
       "id": 3
-    },
-    {
-      "username": "fauzan",
-      "email": "fauzan@gmail.com",
-      "password": "fauz",
-      "id": 4
-    },
-    {
-      "username": "nathan",
-      "email": "nathan@gmail.com",
-      "password": "nat12",
-      "id": 5
-    },
-    {
-      "username": "adi",
-      "email": "adi@gmail.com",
-      "password": "123",
-      "id": 6
-    },
-    {
-      "username": "alo",
-      "email": "alo@gmail.com",
-      "password": "alok123skinfree",
-      "id": 7
-    },
-    {
-      "username": "bruno",
-      "email": "bruno@gmail.com",
-      "password": "bruno1",
-      "id": 8
-    },
-    {
-      "username": "ali",
-      "email": "ali08",
-      "password": "ali12345",
-      "id": 9
-    },
-    {
-      "username": "abc",
-      "email": "abc@gmail.com",
-      "password": "halokamikembali1",
-      "id": 10
     }
   ],
   "category": [
